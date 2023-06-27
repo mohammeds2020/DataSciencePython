@@ -16,3 +16,20 @@
 
 #git status - show all tracked and untracked files
 
+
+#.gitignore - file to permanently tell, not track
+
+# git add . - dot specfies to track all the files with the current folder
+
+# GIT USER CONFIG
+# $ git config --global user.email "muzcseb@gmail.com"
+# $ git config --global user.name "Muzamil"
+
+#git log - log/history of all the commits
+
+# da64a510ef49634ba1f517f707249ae6984e491a - comit hash
+
+# git -h -> get user help or user manual
+
+
+# git documentation
