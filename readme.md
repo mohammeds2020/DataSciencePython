@@ -10,8 +10,8 @@
 |class3✔ | Variables, cases, Multiple variables, unpacking variables  | |
 |class4✔ | import, Data Types, Global variable, type casting, Functions, modules, Numbers  | |
 |class5✔ | Git, (init, add, comit, push)  | |
-|class6 | Strings,Booleans  | |
-|class7 | Operators, Lists,  | |
+|class6✔ | Strings  | |
+|class7 | Operators, Booleans, Lists,  | |
 |class8 | Tuples,Sets, Dictionaries | |
 |class9 | If...Else  | |
 |class10 | While Loops  | |
