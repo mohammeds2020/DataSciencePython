@@ -32,4 +32,13 @@
 # git -h -> get user help or user manual
 
 
-# git documentation
+# git documentation - when ever you want to refer officail
+
+# `ctrl + shift + p`-> settingpreferences
+
+# git remote add <name> <url> - linking local repo to remote repo
+# git remote add origin https://github.com/mohammeds2020/DataSciencePython.git
+
+#git remote -v -> to check which remote repo is linked to the local repo
+
+# git clone <url> -> cloning the existing remote repo
