@@ -25,4 +25,4 @@ Output: "Invalid extension"
 .zip
 """
 
-# Hint: Use .endswith method and add condition to check it.
+# Hint: Use '.endswith' method and add condition to check it.
