@@ -11,8 +11,11 @@
 |class4✔ | import, Data Types, Global variable, type casting, Functions, modules, Numbers  | |
 |class5✔ | Git, (init, add, comit, push)  | |
 |class6✔ | Strings  | |
-|class7 | Operators, Booleans, Lists,  | |
-|class8 | Tuples,Sets, Dictionaries | |
+|class7✔ | Git & Github  | |
+|class8✔ | Conditions  | |
+
+|class8 | Operators, Booleans, Lists,  | |
+|class9 | Tuples,Sets, Dictionaries | |
 |class9 | If...Else  | |
 |class10 | While Loops  | |
 |class11 | For Loops  | |
