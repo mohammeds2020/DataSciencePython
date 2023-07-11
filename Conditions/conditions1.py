@@ -15,7 +15,4 @@ else :
  print ("equal")
 
  
-# conditions loops 
-# function
-# Json spark
-# class 
+
