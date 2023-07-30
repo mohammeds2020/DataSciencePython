@@ -8,11 +8,12 @@
     2. Functions with arguments
       * Pass by value
       * Pass by reference
-    3. Functions with return statements
+    3. Functions with return statements - Done 
     4. Positional Arguments
-    5. Keyword argument
-    6. Variable argument
+    6. Variable argument 
+    6. Arbitray Arguments (*argv) - list
+        - Arbitray Keyword arg (**kargv) - dictionary
     7. Default argument
-    8. **argv argument
+    5. Keyword argument/
 
 
