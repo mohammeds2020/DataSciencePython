@@ -1,3 +1,5 @@
+## Functions without arguments
+
 # They are blocks of code that are executed when ever we call them
 
 a, b = 1, 2

@@ -3,7 +3,7 @@
 <img href="google.com" src="https://user-images.githubusercontent.com/79694828/230014332-40078db9-dcdb-4403-8e58-cfbe8572a89b.png" width="60" height="60" />
 
 ## Context
-|Class|Topic||
+|Class|Topic|Date|
 |---|---|---|
 |class1✔ | Intro, Vscode&git installation   | |
 |class2✔ | Syntax,input,Comments  | |
@@ -13,14 +13,22 @@
 |class6✔ | Strings  | |
 |class7✔ | Git & Github  | |
 |class8✔ | Conditions  | |
+|class9✔ | If...Else  | |
+|class10✔ | While Loops  | |
+|class11✔ | For Loops  | |
+|class12✔ | More Conditions  | |
+|class13✔ | Laptop setup  | 20th July |
+|class14✔ | Functions | 23th July|
+|class15✔  | Arbitray Functions  | 30th July |
+|class16 | Revice class & Hadoop, Spark Setup  |  |
+|class17 |  |  |
+|class18  |   |  |
+
+<!--
 
 |class8 | Operators, Booleans, Lists,  | |
 |class9 | Tuples,Sets, Dictionaries | |
-|class9 | If...Else  | |
-|class10 | While Loops  | |
-|class11 | For Loops  | |
 
-<!--
 |class1 | Functions  | |
 |class1 | Lambda  | |
 |class1 | Arrays  | |

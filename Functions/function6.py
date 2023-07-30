@@ -1,8 +1,13 @@
-# Default Functions
+# Arbitray Keyword (**kargs)
+"""
+  In the function, we use the double asterisk ** before the parameter name to denote this type of argument. The arguments are passed as a dictionary and these arguments make a dictionary inside function with name same as the parameter excluding double asterisk **.
+"""
+
+def myfunc(**data): #*income_stream is an optional and its a dictionary
+  for key, value in data.items():
+    print(f"{key}, {value}")
+  print("")
 
 
-def details(name, age, income="10,000"):
-    print(f"Your name is {name}, age is {age}, you earn {income} ")
-
-
-details("Faizan", 19, "15,000")
+myfunc(name="hi", age=12, location="BLR")
+myfunc(name="Goodbye", age=20, location="AUS")
