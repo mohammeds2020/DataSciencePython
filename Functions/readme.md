@@ -10,7 +10,12 @@
     4. Default argument
     5. Arbitray Arguments (*argv) - returns tuple
     6. Arbitray Keyword arg (**kargv) - returns dictionary
+    
         We use *args and **kwargs as an argument when we are unsure about the number of arguments to pass in the functions.
+
+
+### Parameters VS Arguments
+
 
 
 ## Other

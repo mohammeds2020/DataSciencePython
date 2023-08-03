@@ -4,9 +4,12 @@
 """
 
 def myfunc(**data): #*income_stream is an optional and its a dictionary
+  # data = {name="hi", age=12, location="BLR"}
+  
+  #dict_items([('name', 'Ron'), ('age', 12), ('location', 'BLR')])
   for key, value in data.items():
     print(f"{key}, {value}")
-  print("")
+  print("", end='\n')
 
 
 myfunc(name="hi", age=12, location="BLR")
