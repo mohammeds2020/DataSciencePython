@@ -2,6 +2,23 @@
 <p align="left">
 <img href="google.com" src="https://user-images.githubusercontent.com/79694828/230014332-40078db9-dcdb-4403-8e58-cfbe8572a89b.png" width="60" height="60" />
 
+|Status|Topic/ Concept|
+|---|---|
+|✅|Variables|
+|✅|Operations|
+|✅|String, Lists, dict|
+|✅|String Methods|
+|✅|Functions|
+|✅|Conditions|
+|✅|Loops|
+|✅|Modules|
+||Regular Expression|
+||Classes|
+||JSON|
+||File I/O|
+
+
+
 ## Context
 |Class|Topic|Date|
 |---|---|---|
