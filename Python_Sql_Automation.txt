@@ -1,0 +1,49 @@
+1a. Universal database connection function
+ * success and failure messages
+ * Accept cred from excel sheet csv
+ * should work for all  the databases like oracle postgress and mysql
+
+1b. closing the db_function()
+
+2. Inserting a record in a table (universal function)
+ * call the "1.Universal database connection function"
+ * Make table name, attribute name as global
+ * Success and failure message (check if table exist or not, if table doesnt exist - "table doesnt exist {table_name}")
+ * check if csv is blank "nothing to insert"
+  * display how many rows inserted ""
+  * commit after insertion
+ * closing the db_function()
+ 
+NOTES
+* [to be confirmed - Not optimized approach and unneccesary quries and connections] data should connect create instance commit and close
+ 
+
+```
+db connect > cursor obj > [queries] > commit cursor > db commit > db close
+
+db connect > cursor obj >
+
+....
+
+commit cursor > db commit > db close
+
+```
+
+3. Updating a record in a table (universal function)
+ * call the "1.Universal database connection function"
+ * Make table name, attribute name as global
+ * Success and failure message (check if table exist or not, if table doesnt exist - "table doesnt exist {table_name}")
+ * check if csv is blank "nothing to update
+  * display how many rows updated ""
+  * commit after updation
+ * closing the db_function()
+
+
+4. Deleting a record in a table (universal function)
+ * call the "1.Universal database connection function"
+ * Make table name, attribute name as global
+ * Success and failure message (check if table exist or not, if table doesnt exist - "table doesnt exist {table_name}")
+ * check if csv is blank "nothing to delete
+  * display how many rows deleted  ""
+  * commit after deletion
+ * closing the db_function()
